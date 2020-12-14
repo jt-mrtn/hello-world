@@ -1,5 +1,5 @@
 # hello-world
-Diving in to the GitHub world
+Diving into the GitHub world
 
 Howdy,
 
